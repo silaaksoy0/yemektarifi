@@ -1,0 +1,23 @@
+body {
+   font-family: sans-serif, Verdana;
+    color:black;
+    font-size:14px;
+    background-image:url(https://st.depositphotos.com/2143989/4786/v/950/depositphotos_47867695-stock-illustration-smooth-colorful-background.jpg);
+    background-size: cover;
+    width:50%;
+    margin:auto;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: solid 15px black;
+    background-color: blueviolet;
+}
+img {
+    border: dotted 5px black;
+    border-radius:5%;
+    margin: auto;
+    width: 75%;
+    display:block;
+    
+}
